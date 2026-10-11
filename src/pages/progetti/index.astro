@@ -1,0 +1,21 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import PageHead from '../../components/PageHead.astro';
+import Portfolio from '../../components/Portfolio.astro';
+import Cta from '../../components/Cta.astro';
+import { abs } from '../../data/site';
+import { progetti } from '../../data/progetti';
+
+const crumbs = [{ name: 'Home', href: '/' }, { name: 'Progetti', href: '/progetti/' }];
+const ld = [{
+  '@type': 'ItemList',
+  name: 'Progetti',
+  numberOfItems: progetti.length,
+  itemListElement: progetti.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(`/progetti/${p.slug}/`), name: p.titolo })),
+}];
+---
+<Layout title="Progetti | Campomarzio, architettura e urbanistica a Trento" description="I progetti di Campomarzio: architettura, restauro, spazi pubblici, urbanistica ed edilizia sociale in Trentino-Alto Adige, molti vinti per concorso." pageType="CollectionPage" crumbs={crumbs} ld={ld}>
+<PageHead crumbs={crumbs} eyebrow="Portfolio" title="Progetti"> <p class="lead mt-3 narrow">{progetti.length} progetti dal 2012: scuole, piazze, centri sportivi, case e recuperi, edilizia sociale e concorsi in Trentino e Alto Adige.</p> </PageHead>
+<Portfolio lista={progetti} />
+<Cta />
+</Layout>

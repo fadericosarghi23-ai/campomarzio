@@ -1,0 +1,18 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import ProcessCards from '../components/ProcessCards.astro';
+import Cta from '../components/Cta.astro';
+import { progetto } from '../data/progetti';
+import { fasi } from '../data/contenuti';
+
+// Campomarzio: la pagina /metodo/ ospita premi e pubblicazioni (vedi src/data/contenuti.ts).
+const crumbs = [{ name: 'Home', href: '/' }, { name: 'Premi', href: '/metodo/' }];
+const hero = progetto('torri-madonna-bianca').immagini[0];
+---
+<Layout title="Premi | Campomarzio, architettura a Trento" description="Premi, riconoscimenti e pubblicazioni di Campomarzio: Euregio Baukulturpreis 2025, Giovane Talento 2023, primi premi in concorso e due Biennali di Venezia." ogType="article" transparent crumbs={crumbs}>
+<PageHero img={hero} crumbs={crumbs} eyebrow="Premi"> <h1 class="h1-page">Premi, riconoscimenti e <em>pubblicazioni</em></h1> <p class="lead">Premi nazionali e internazionali, primi premi in concorso e due partecipazioni alla Biennale di Venezia.</p> </PageHero>
+<section class="section"> <div class="container"> <ProcessCards h="h2" /> </div> </section>
+<section class="section bg-sand"> <div class="container"> <div class="section-head reveal"> <div> <p class="eyebrow mb-2">Tutti i riconoscimenti</p> <h2 class="h2">Premi e pubblicazioni</h2> <p class="lead mt-2">Concorsi vinti in Trentino e Alto Adige, riconoscimenti internazionali e pubblicazioni con editori e riviste di settore.</p> </div> <a href="/progetti/" class="btn btn-primary">Vedi i progetti</a> </div> <ol class="steps"> {fasi.map((f, i) => <li id={`fase-${i + 1}`} class="reveal" style={`transition-delay:${(i % 3) * 60}ms`}> <span class="n">{String(i + 1).padStart(2, '0')}</span> <h3 class="h4">{f.titolo}</h3> <p>{f.testo}</p> </li>)} </ol> </div> </section>
+<Cta />
+</Layout>

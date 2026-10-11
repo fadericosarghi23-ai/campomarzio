@@ -1,0 +1,878 @@
+{
+ "negrelli": [
+  {
+   "src": "/img/progetti/negrelli/01.jpg",
+   "width": 1280,
+   "height": 853,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/negrelli/02.jpg",
+   "width": 1920,
+   "height": 2560,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/negrelli/03.jpg",
+   "width": 1920,
+   "height": 3840,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/negrelli/04.jpg",
+   "width": 1920,
+   "height": 1600,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/negrelli/05.jpg",
+   "width": 1920,
+   "height": 1344,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/negrelli/06.jpg",
+   "width": 1280,
+   "height": 853,
+   "drawing": false
+  }
+ ],
+ "cimec": [
+  {
+   "src": "/img/progetti/cimec/01.jpg",
+   "width": 1920,
+   "height": 1281,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/cimec/02.jpg",
+   "width": 1920,
+   "height": 1523,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/cimec/03.jpg",
+   "width": 1920,
+   "height": 1523,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/cimec/04.jpg",
+   "width": 1920,
+   "height": 1281,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/cimec/05.jpg",
+   "width": 1920,
+   "height": 1281,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/cimec/06.jpg",
+   "width": 1920,
+   "height": 1282,
+   "drawing": false
+  }
+ ],
+ "torri-madonna-bianca": [
+  {
+   "src": "/img/progetti/torri-madonna-bianca/01.jpg",
+   "width": 1920,
+   "height": 1440,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/torri-madonna-bianca/02.jpg",
+   "width": 1920,
+   "height": 1961,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/torri-madonna-bianca/03.jpg",
+   "width": 1920,
+   "height": 1342,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/torri-madonna-bianca/04.jpg",
+   "width": 1920,
+   "height": 1299,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/torri-madonna-bianca/05.jpg",
+   "width": 1920,
+   "height": 1440,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/torri-madonna-bianca/06.jpg",
+   "width": 1920,
+   "height": 1440,
+   "drawing": false
+  }
+ ],
+ "piazza-della-mostra": [
+  {
+   "src": "/img/progetti/piazza-della-mostra/01.jpg",
+   "width": 1500,
+   "height": 1127,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/piazza-della-mostra/02.jpg",
+   "width": 1684,
+   "height": 1191,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/piazza-della-mostra/03.jpg",
+   "width": 1920,
+   "height": 1440,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/piazza-della-mostra/04.jpg",
+   "width": 1485,
+   "height": 1114,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/piazza-della-mostra/05.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/piazza-della-mostra/06.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  }
+ ],
+ "house-ca": [
+  {
+   "src": "/img/progetti/house-ca/01.jpg",
+   "width": 1920,
+   "height": 1210,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-ca/02.jpg",
+   "width": 1920,
+   "height": 1034,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/house-ca/03.jpg",
+   "width": 1920,
+   "height": 2560,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-ca/04.jpg",
+   "width": 1920,
+   "height": 2560,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-ca/05.jpg",
+   "width": 1920,
+   "height": 1440,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-ca/06.jpg",
+   "width": 1920,
+   "height": 2560,
+   "drawing": false
+  }
+ ],
+ "house-tv": [
+  {
+   "src": "/img/progetti/house-tv/01.jpg",
+   "width": 1920,
+   "height": 1210,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-tv/02.jpg",
+   "width": 1920,
+   "height": 2560,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-tv/03.jpg",
+   "width": 1920,
+   "height": 1034,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/house-tv/04.jpg",
+   "width": 1920,
+   "height": 1034,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/house-tv/05.jpg",
+   "width": 1920,
+   "height": 1210,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-tv/06.jpg",
+   "width": 1920,
+   "height": 1034,
+   "drawing": true
+  }
+ ],
+ "sportzentrum-st-martin": [
+  {
+   "src": "/img/progetti/sportzentrum-st-martin/01.jpg",
+   "width": 1920,
+   "height": 1440,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sportzentrum-st-martin/02.jpg",
+   "width": 1920,
+   "height": 1440,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sportzentrum-st-martin/03.jpg",
+   "width": 1920,
+   "height": 1440,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sportzentrum-st-martin/04.jpg",
+   "width": 1920,
+   "height": 1440,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sportzentrum-st-martin/05.jpg",
+   "width": 1920,
+   "height": 2054,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sportzentrum-st-martin/06.jpg",
+   "width": 1920,
+   "height": 2054,
+   "drawing": false
+  }
+ ],
+ "house-bg": [
+  {
+   "src": "/img/progetti/house-bg/01.jpg",
+   "width": 1920,
+   "height": 1210,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-bg/02.jpg",
+   "width": 1920,
+   "height": 2560,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-bg/03.jpg",
+   "width": 1920,
+   "height": 2560,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-bg/04.jpg",
+   "width": 1920,
+   "height": 2560,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-bg/05.jpg",
+   "width": 1920,
+   "height": 2560,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-bg/06.jpg",
+   "width": 1920,
+   "height": 717,
+   "drawing": false
+  }
+ ],
+ "cassa-rurale-vallagarina": [
+  {
+   "src": "/img/progetti/cassa-rurale-vallagarina/01.jpg",
+   "width": 1920,
+   "height": 1920,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/cassa-rurale-vallagarina/02.jpg",
+   "width": 1920,
+   "height": 1536,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/cassa-rurale-vallagarina/03.jpg",
+   "width": 1920,
+   "height": 1536,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/cassa-rurale-vallagarina/04.jpg",
+   "width": 1920,
+   "height": 960,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/cassa-rurale-vallagarina/05.jpg",
+   "width": 1920,
+   "height": 960,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/cassa-rurale-vallagarina/06.jpg",
+   "width": 1772,
+   "height": 1417,
+   "drawing": true
+  }
+ ],
+ "sportzone-plans": [
+  {
+   "src": "/img/progetti/sportzone-plans/01.jpg",
+   "width": 1550,
+   "height": 1058,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sportzone-plans/02.jpg",
+   "width": 1013,
+   "height": 761,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sportzone-plans/03.jpg",
+   "width": 1550,
+   "height": 1058,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sportzone-plans/04.jpg",
+   "width": 1134,
+   "height": 1134,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sportzone-plans/05.jpg",
+   "width": 1134,
+   "height": 1134,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sportzone-plans/06.jpg",
+   "width": 1920,
+   "height": 327,
+   "drawing": false
+  }
+ ],
+ "kita-tesimo": [
+  {
+   "src": "/img/progetti/kita-tesimo/01.jpg",
+   "width": 1920,
+   "height": 1259,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/kita-tesimo/02.jpg",
+   "width": 1920,
+   "height": 873,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/kita-tesimo/03.jpg",
+   "width": 1920,
+   "height": 1646,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/kita-tesimo/04.jpg",
+   "width": 1920,
+   "height": 823,
+   "drawing": true
+  }
+ ],
+ "ipes-san-lorenzo": [
+  {
+   "src": "/img/progetti/ipes-san-lorenzo/01.jpg",
+   "width": 1920,
+   "height": 1390,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/ipes-san-lorenzo/02.jpg",
+   "width": 1920,
+   "height": 1440,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/ipes-san-lorenzo/03.jpg",
+   "width": 1920,
+   "height": 2716,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/ipes-san-lorenzo/04.jpg",
+   "width": 1920,
+   "height": 1280,
+   "drawing": true
+  }
+ ],
+ "nucleo-laives": [
+  {
+   "src": "/img/progetti/nucleo-laives/01.jpg",
+   "width": 1920,
+   "height": 850,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/nucleo-laives/02.jpg",
+   "width": 1920,
+   "height": 849,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/nucleo-laives/03.jpg",
+   "width": 1920,
+   "height": 1249,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/nucleo-laives/04.jpg",
+   "width": 1920,
+   "height": 1920,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/nucleo-laives/05.jpg",
+   "width": 1920,
+   "height": 1920,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/nucleo-laives/06.jpg",
+   "width": 1920,
+   "height": 1920,
+   "drawing": true
+  }
+ ],
+ "house-cp": [
+  {
+   "src": "/img/progetti/house-cp/01.jpg",
+   "width": 1500,
+   "height": 1125,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-cp/02.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-cp/03.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-cp/04.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-cp/05.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-cp/06.jpg",
+   "width": 1920,
+   "height": 2396,
+   "drawing": true
+  }
+ ],
+ "house-tr": [
+  {
+   "src": "/img/progetti/house-tr/01.jpg",
+   "width": 1500,
+   "height": 1125,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-tr/02.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-tr/03.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-tr/04.jpg",
+   "width": 1500,
+   "height": 1125,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-tr/05.jpg",
+   "width": 1714,
+   "height": 1714,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/house-tr/06.jpg",
+   "width": 885,
+   "height": 885,
+   "drawing": true
+  }
+ ],
+ "sporthaus-nova-levante": [
+  {
+   "src": "/img/progetti/sporthaus-nova-levante/01.jpg",
+   "width": 1600,
+   "height": 1195,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sporthaus-nova-levante/02.jpg",
+   "width": 1500,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sporthaus-nova-levante/03.jpg",
+   "width": 1500,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sporthaus-nova-levante/04.jpg",
+   "width": 1500,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sporthaus-nova-levante/05.jpg",
+   "width": 1500,
+   "height": 487,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/sporthaus-nova-levante/06.jpg",
+   "width": 1500,
+   "height": 976,
+   "drawing": false
+  }
+ ],
+ "kindergarten-egna": [
+  {
+   "src": "/img/progetti/kindergarten-egna/01.jpg",
+   "width": 1920,
+   "height": 1293,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/kindergarten-egna/02.jpg",
+   "width": 1920,
+   "height": 1293,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/kindergarten-egna/03.jpg",
+   "width": 1920,
+   "height": 1280,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/kindergarten-egna/04.jpg",
+   "width": 1920,
+   "height": 1293,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/kindergarten-egna/05.jpg",
+   "width": 1920,
+   "height": 1440,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/kindergarten-egna/06.jpg",
+   "width": 1920,
+   "height": 884,
+   "drawing": true
+  }
+ ],
+ "house-fa": [
+  {
+   "src": "/img/progetti/house-fa/01.jpg",
+   "width": 1500,
+   "height": 1125,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-fa/02.jpg",
+   "width": 1500,
+   "height": 1125,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-fa/03.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-fa/04.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-fa/05.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-fa/06.jpg",
+   "width": 1772,
+   "height": 1772,
+   "drawing": true
+  }
+ ],
+ "agriturismo-barberina": [
+  {
+   "src": "/img/progetti/agriturismo-barberina/01.jpg",
+   "width": 1920,
+   "height": 1210,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/agriturismo-barberina/02.jpg",
+   "width": 1500,
+   "height": 2000,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/agriturismo-barberina/03.jpg",
+   "width": 1500,
+   "height": 2000,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/agriturismo-barberina/04.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/agriturismo-barberina/05.jpg",
+   "width": 1920,
+   "height": 780,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/agriturismo-barberina/06.jpg",
+   "width": 1920,
+   "height": 1047,
+   "drawing": true
+  }
+ ],
+ "ipes-laces": [
+  {
+   "src": "/img/progetti/ipes-laces/01.jpg",
+   "width": 1920,
+   "height": 1293,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/ipes-laces/02.jpg",
+   "width": 1920,
+   "height": 2364,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/ipes-laces/03.jpg",
+   "width": 1920,
+   "height": 2364,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/ipes-laces/04.jpg",
+   "width": 1920,
+   "height": 2976,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/ipes-laces/05.jpg",
+   "width": 1920,
+   "height": 1280,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/ipes-laces/06.jpg",
+   "width": 1920,
+   "height": 1920,
+   "drawing": false
+  }
+ ],
+ "kindergarten-lattecaldo": [
+  {
+   "src": "/img/progetti/kindergarten-lattecaldo/01.jpg",
+   "width": 1800,
+   "height": 1213,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/kindergarten-lattecaldo/02.jpg",
+   "width": 1920,
+   "height": 1339,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/kindergarten-lattecaldo/03.jpg",
+   "width": 1800,
+   "height": 1213,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/kindergarten-lattecaldo/04.jpg",
+   "width": 1920,
+   "height": 1270,
+   "drawing": true
+  }
+ ],
+ "scuola-primiero": [
+  {
+   "src": "/img/progetti/scuola-primiero/01.jpg",
+   "width": 1920,
+   "height": 1259,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/scuola-primiero/02.jpg",
+   "width": 1920,
+   "height": 933,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/scuola-primiero/03.jpg",
+   "width": 1920,
+   "height": 1358,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/scuola-primiero/04.jpg",
+   "width": 1920,
+   "height": 933,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/scuola-primiero/05.jpg",
+   "width": 1920,
+   "height": 637,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/scuola-primiero/06.jpg",
+   "width": 1920,
+   "height": 1068,
+   "drawing": true
+  }
+ ],
+ "torri-2020": [
+  {
+   "src": "/img/progetti/torri-2020/01.jpg",
+   "width": 1700,
+   "height": 1275,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/torri-2020/02.jpg",
+   "width": 1920,
+   "height": 1280,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/torri-2020/03.jpg",
+   "width": 1700,
+   "height": 1133,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/torri-2020/04.jpg",
+   "width": 1822,
+   "height": 1289,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/torri-2020/05.jpg",
+   "width": 1920,
+   "height": 2560,
+   "drawing": true
+  },
+  {
+   "src": "/img/progetti/torri-2020/06.jpg",
+   "width": 1920,
+   "height": 1481,
+   "drawing": true
+  }
+ ],
+ "house-pb": [
+  {
+   "src": "/img/progetti/house-pb/01.jpg",
+   "width": 1500,
+   "height": 1125,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-pb/02.jpg",
+   "width": 1500,
+   "height": 969,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-pb/03.jpg",
+   "width": 1500,
+   "height": 1039,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-pb/04.jpg",
+   "width": 1000,
+   "height": 1333,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-pb/05.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  },
+  {
+   "src": "/img/progetti/house-pb/06.jpg",
+   "width": 1125,
+   "height": 1500,
+   "drawing": false
+  }
+ ]
+}
